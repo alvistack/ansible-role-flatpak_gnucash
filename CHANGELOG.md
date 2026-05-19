@@ -1,4 +1,4 @@
-# Ansible Role for GnuCash
+# Ansible Role for GnuCash with Flatpak
 
 ## 13.6.0 - TBC
 

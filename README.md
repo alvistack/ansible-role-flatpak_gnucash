@@ -1,13 +1,13 @@
-# Ansible Role for GnuCash
+# Ansible Role for GnuCash with Flatpak
 
 <a href="https://alvistack.com" title="AlviStack" target="_blank"><img src="/alvistack.svg" height="75" alt="AlviStack"></a>
 
-[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-gnucash/master)](https://gitlab.com/alvistack/ansible-role-gnucash/-/pipelines)
-[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-gnucash.svg)](https://github.com/alvistack/ansible-role-gnucash/tags)
-[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-gnucash.svg)](https://github.com/alvistack/ansible-role-gnucash/blob/master/LICENSE)
-[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.gnucash-blue.svg)](https://galaxy.ansible.com/alvistack/gnucash)
+[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-flatpak_gnucash/master)](https://gitlab.com/alvistack/ansible-role-flatpak_gnucash/-/pipelines)
+[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-flatpak_gnucash.svg)](https://github.com/alvistack/ansible-role-flatpak_gnucash/tags)
+[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-flatpak_gnucash.svg)](https://github.com/alvistack/ansible-role-flatpak_gnucash/blob/master/LICENSE)
+[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.flatpak_gnucash-blue.svg)](https://galaxy.ansible.com/alvistack/flatpak_gnucash)
 
-Ansible Role for GnuCash Installation.
+Ansible Role for GnuCash with Flatpak.
 
 ## Requirements
 
